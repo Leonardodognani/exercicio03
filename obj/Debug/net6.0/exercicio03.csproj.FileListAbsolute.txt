@@ -1,0 +1,15 @@
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\bin\Debug\net6.0\exercicio03.exe
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\bin\Debug\net6.0\exercicio03.deps.json
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\bin\Debug\net6.0\exercicio03.runtimeconfig.json
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\bin\Debug\net6.0\exercicio03.dll
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\bin\Debug\net6.0\ref\exercicio03.dll
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\bin\Debug\net6.0\exercicio03.pdb
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\obj\Debug\net6.0\exercicio03.csproj.AssemblyReference.cache
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\obj\Debug\net6.0\exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\obj\Debug\net6.0\exercicio03.AssemblyInfoInputs.cache
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\obj\Debug\net6.0\exercicio03.AssemblyInfo.cs
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\obj\Debug\net6.0\exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\obj\Debug\net6.0\exercicio03.dll
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\obj\Debug\net6.0\ref\exercicio03.dll
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\obj\Debug\net6.0\exercicio03.pdb
+C:\Users\vntrodo\desktop\estudos\github\exercicio03\obj\Debug\net6.0\exercicio03.genruntimeconfig.cache
