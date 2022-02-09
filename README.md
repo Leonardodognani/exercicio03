@@ -1,6 +1,7 @@
-﻿//Exercício 03 – Desenvolva uma calculadora, onde será necessário entrar com a operação, 
-//primeiro e segundo valor, exiba o resultado na tela.
-
+# :book: Exercício C# :book:
+## Exercício 3
+## Desenvolva uma calculadora, onde será necessário entrar com a operação, primeiro e segundo valor. Exiba o resultado na tela.
+```
 namespace exercicio03
 {
     class Program
@@ -88,3 +89,4 @@ namespace exercicio03
 
     }
 }
+```
