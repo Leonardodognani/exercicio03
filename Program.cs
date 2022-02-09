@@ -13,10 +13,10 @@ namespace exercicio03
             char Operation;
 
             Console.WriteLine("Por favor, entre com a operação desejada:");
-            Console.WriteLine("use '+' para Adição");
-            Console.WriteLine("use '-' para Subtração");
-            Console.WriteLine("use '*' para Multiplicação");
-            Console.WriteLine("use '/' para Divisão");
+            Console.WriteLine("Digite '+' para Adição");
+            Console.WriteLine("Digite '-' para Subtração");
+            Console.WriteLine("Digite '/' para Divisão");
+            Console.WriteLine("Digite '*' para Multiplicação");
             Console.WriteLine("Por favor, digite apenas o símbolo, sem as apas simples(' ').");
             Console.WriteLine("-------------------------------------------------------------");
             Console.WriteLine();
@@ -57,8 +57,8 @@ namespace exercicio03
             }
 
 
-        Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine($"A operação de {Operation} dos números {num1} e {num2} dá o resultado de {Result}.");
+        // Console.WriteLine($"A operação de {num1} {Operation} {num2}, dá o resultado de {Result}.");
+        Console.WriteLine(string.Format("A operação de {0} {1} {2}, dá o resultado de {3}.", num1, Operation, num2, Result));
 
 
 
